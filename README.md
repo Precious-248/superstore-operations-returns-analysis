@@ -32,11 +32,10 @@ This project analyzes July 2026 operations across **250 Total Orders**, generati
 * **Total Monetary Loss by Product Category:** Electronics causes the highest financial loss at ₦2.3M, followed by Fashion & Apparel at ₦1.5M.
 
 
----
 ### Key Measures
 
-**Total Orders = 250 | Gross Revenue = ₦12.15M**
-**Total Returns = 45 | Return Rate = 18.00%**
+* **Total Orders:** 250 | **Gross Revenue:** ₦12.15M
+* **Total Returns:** 45 | **Return Rate:** 18.00%
 
 ### Business Questions
 
