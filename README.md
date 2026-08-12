@@ -48,7 +48,7 @@ Business Questions
 * **Check on delivery riders and shipping companies in Oyo State:** Pay closer attention to the delivery partners working in Oyo State and the specific areas where we get the most complaints.
 * **Listen closer to customer reviews and complaints:** Pay attention to what customers are saying in their return reasons so we can quickly fix product issues and keep customers happy.
 
----Skills Demonstrated
+Skills Demonstrated
 
 Power BI • Data Modeling • KPI Development • Data Visualization • Exploratory Data Analysis • Data Cleaning • Risk Assessment •
 
