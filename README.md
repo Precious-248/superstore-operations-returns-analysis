@@ -21,13 +21,16 @@ This project analyzes July 2026 operations across **250 Total Orders**, generati
 ---
 
 ##  Key Dashboard Insights
-* **Return Distribution by Product Category:** **Fashion & Apparel** is the highest return driver, followed by **Home & Kitchen** and **Electronics**.
-* **Top Return Reasons:** **Wrong Size** (14 orders) and **Poor Quality** (8 orders) are the primary pain points driving customer returns.
-* **Return Volume by Customer Type:** Return activity is led by **Returning Customers (53.33%)** compared to **New Customers (40.0%)**.
-  
-• **Return Rate by Region:** Oyo State stands out as the highest regional return rate at 34%, followed by Kano and Abia.
+* **Return Distribution by Product Category:** Fashion & Apparel is the highest return driver, followed by Home & Kitchen and Electronics.
 
-* **Total Monetary Loss by Product Category:** **Electronics** causes the highest financial loss at **₦2.3M**, followed by Fashion & Apparel at **₦1.5M**.
+* **Top Return Reasons:** Wrong Size (14 orders) and Poor Quality (8 orders) are primary pain points driving customer returns.
+
+* **Return Volume by Customer Type:** Return activity is led by Returning Customers (53.33%) compared to New Customers (40.0%).
+
+* **Return Rate by Region:** Oyo State stands out as the highest regional return rate at 34%, followed by Kano and Abia.
+
+* **Total Monetary Loss by Product Category:** Electronics causes the highest financial loss at ₦2.3M, followed by Fashion & Apparel at ₦1.5M.
+
 
 ---
 Key Measures
