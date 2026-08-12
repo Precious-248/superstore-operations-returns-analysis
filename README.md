@@ -28,6 +28,19 @@ This project analyzes July 2026 operations across **250 Total Orders**, generati
 * **Total Monetary Loss by Product Category:** **Electronics** causes the highest financial loss at **₦2.3M**, followed by Fashion & Apparel at **₦1.5M**.
 
 ---
+Key Measures
+
+Total Orders = 250 | Gross Revenue = ₦12.15M | Total Returns = 45 | Return Rate = 18.00%
+
+Business Questions
+
+1. What is the total volume of product returns and what is the overall return rate?
+2. Which product categories experience the highest volume of returns?
+3. What are the primary reasons driving customer returns?
+4. How does return activity vary across different customer types (New versus Returning)?
+5. Which regions and states record the highest return rates and financial risks?
+6. Which product categories account for the highest monetary losses from returns?
+
 
 ##  Key Strategic Recommendations
 * **Double check electronics and high priced items before shipping:** Make sure fragile items are packed securely so they don't break easily and drive up our highest cost (**₦2.3M**).
