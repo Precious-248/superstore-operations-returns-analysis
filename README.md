@@ -33,18 +33,19 @@ This project analyzes July 2026 operations across **250 Total Orders**, generati
 
 
 ---
-Key Measures
+### Key Measures
 
-Total Orders = 250 | Gross Revenue = ₦12.15M | Total Returns = 45 | Return Rate = 18.00%
+**Total Orders = 250 | Gross Revenue = ₦12.15M**
+**Total Returns = 45 | Return Rate = 18.00%**
 
-Business Questions
+### Business Questions
 
-1. What is the total volume of product returns and what is the overall return rate?
-2. Which product categories experience the highest volume of returns?
-3. What are the primary reasons driving customer returns?
-4. How does return activity vary across different customer types (New versus Returning)?
-5. Which regions and states record the highest return rates and financial risks?
-6. Which product categories account for the highest monetary losses from returns?
+1. **What is the total volume of product returns and what is the overall return rate?**
+2. **Which product categories experience the highest volume of returns?**
+3. **What are the primary reasons driving customer returns?**
+4. **How does return activity vary across different customer types (New versus Returning)?**
+5. **Which regions and states record the highest return rates and financial risks?**
+6. **Which product categories account for the highest monetary losses from returns?**
 
 
 ##  Key Strategic Recommendations
