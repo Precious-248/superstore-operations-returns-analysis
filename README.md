@@ -6,13 +6,13 @@
 An executive-level Power BI dashboard built to track e-commerce operations, return patterns, and financial risk within Nigeria.
 
 ---
-Cleaning Performed
+### Cleaning Performed
 
-•Entry Standardization: Ensured all text entries, categories, and regional names across the dataset were uniformly formatted to prevent reporting errors and data discrepancies.
+* **Entry Standardization:** Ensured all text entries, categories, and regional names across the dataset were uniformly formatted to prevent reporting errors and data discrepancies.
 
-• Return Reason Categorization: Cleaned and structured various return reasons such as wrong size and poor quality to ensure reliable evaluation in the dashboard.
+* **Return Reason Categorization:** Cleaned and structured various return reasons such as wrong size and poor quality to ensure reliable evaluation in the dashboard.
 
-• Integrity Checks: Verified customer types, specifically new versus returning, and regional distribution data to eliminate discrepancies before analysis.
+* **Integrity Checks:** Verified customer types, specifically new versus returning, and regional distribution data to eliminate discrepancies before analysis.
 
 
 ##  Executive Summary
